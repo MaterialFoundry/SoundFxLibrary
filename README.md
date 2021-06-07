@@ -8,6 +8,8 @@ Details on the creators, licenses, changes I've made and links to the source can
 Please note that while you are allowed to use all of these sounds for your personal games, not all sounds are licensed to be used in a commercial settings.
 It is up to you to check the license of each sound you're using, Attribution.xlsx might contain errors, no rights can be derived from that document.<br>
 <br>
+You do not need to enable this module in 'Manage Modules', as this does nothing.<br>
+<br>
 Here is a list of modules that can be used to create soundboards, in order to play these sounds:<br>
 <ul>
 <li><a href="https://github.com/cdeenen/soundscape">Soundscape</a></li>
