@@ -2,7 +2,7 @@
 This module contains audio effects, and offers no functionality on its own.<br>
 Included are over 150 sound effects and loops, ranging from combat hit sounds to forest ambient loops.<br>
 <br>
-None of the included sounds were made by me. They are all licenced in such a way that I am allowed to share them in this library.<br>
+None of the included sounds were made by me. They are all licensed in such a way that I am allowed to share them in this library.<br>
 Details on the creators, licenses, changes I've made and links to the source can be found in Attribution.xlsx<br>
 <br>
 Please note that while you are allowed to use all of these sounds for your personal games, not all sounds are licensed to be used in a commercial settings.
@@ -19,7 +19,7 @@ Here is a list of modules that can be used to create soundboards, in order to pl
 
 ## Importing Sounds into Material Deck or Material Keys
 When selecting a sound for the module's soundboard, select 'File Picker'. When the file browser is open, make sure it is set to 'User Data' at the top. 
-Then browse to 'modules/soundFxLibrary' and then select the category you want and pick a sound.
+Then browse to 'modules/soundfxlibrary' and then select the category you want and pick a sound.
 
 ## Importing Sounds in Soundboard by Blitz
-Make sure you've set a custom soundboard directory in Soundboard's module settings. Copy sounds from 'modules/soundFxLibrary' into that directory. Use folders to create categories.
+Make sure you've set a custom soundboard directory in Soundboard's module settings. Copy sounds from 'modules/soundfxlibrary' into that directory. Use folders to create categories.
