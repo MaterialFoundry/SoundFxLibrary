@@ -12,13 +12,12 @@ You do not need to enable this module in 'Manage Modules', as this does nothing.
 <br>
 Here is a list of modules that can be used to create soundboards, in order to play these sounds:<br>
 <ul>
-<li><a href="https://github.com/cdeenen/soundscape">Soundscape</a></li>
 <li><a href="https://github.com/BlitzKraig/fvtt-SoundBoard">Soundboard by Blitz</a></li>
 <li><a href="https://github.com/cdeenen/materialdeck">Material Deck</a></li>
 <li><a href="https://github.com/cdeenen/materialkeys">Material Keys</a></li>
 </ul>
 
-## Importing Sounds into Soundscape, Material Deck or Material Keys
+## Importing Sounds into Material Deck or Material Keys
 When selecting a sound for the module's soundboard, select 'File Picker'. When the file browser is open, make sure it is set to 'User Data' at the top. 
 Then browse to 'modules/soundFxLibrary' and then select the category you want and pick a sound.
 
