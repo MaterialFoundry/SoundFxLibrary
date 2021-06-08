@@ -23,3 +23,7 @@ Then browse to 'modules/soundfxlibrary' and then select the category you want an
 
 ## Importing Sounds in Soundboard by Blitz
 Make sure you've set a custom soundboard directory in Soundboard's module settings. Copy sounds from 'modules/soundfxlibrary' into that directory. Use folders to create categories.
+
+# License
+This library is covered under the MIT license, however, this does not cover any of the included sounds.<br>
+Details on the creators, licenses, changes I've made and links to the source can be found in Attribution.xlsx<br>
