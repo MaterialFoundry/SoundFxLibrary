@@ -1,0 +1,29 @@
+{
+    "SOUNDFXLIBRARY": {
+        "licenseDescription": "License for each sound is found in Attribution.xlsx",
+        "Combat": {
+            "title": "Combat",
+            "description": "A collection of combat sounds."
+        },
+        "Creatures": {
+            "title": "Creatures",
+            "description": "Sounds for monsters and beasts."
+        },
+        "Misc": {
+            "title": "Miscellaneous",
+            "description": "Some random useful bits."
+        },
+        "Nature": {
+            "title": "Nature",
+            "description": "Natural sounds."
+        },
+        "Tavern": {
+            "title": "Tavern",
+            "description": "Rowdy tavern sounds."
+        },
+        "Town": {
+            "title": "Town",
+            "description": "A collection of sounds for a town scene."
+        }
+    }
+}
