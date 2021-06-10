@@ -2,7 +2,7 @@
     "name": "soundfxlibrary",
     "title": "SoundFx Library",
     "description": "Library of sound effects that can be used in soundboards.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "CDeenen",
     "minimumCoreVersion": "0.6.0",
     "compatibleCoreVersion": "0.8.6",
