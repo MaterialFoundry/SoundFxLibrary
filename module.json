@@ -4,8 +4,17 @@
     "description": "Library of sound effects that can be used in soundboards.",
     "version": "1.0.1",
     "author": "CDeenen",
+    "authors": [
+        {
+            "name": "CDeenen"
+        }
+      ],
     "minimumCoreVersion": "0.6.0",
-    "compatibleCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "10",
+    "compatibility": {
+        "minimum": "0.6",
+        "verified": "10"
+    },
     "url": "https://github.com/CDeenen/SoundFxLibrary",
     "languages": [
         {
