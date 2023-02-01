@@ -1,8 +1,8 @@
 {
-    "name": "soundfxlibrary",
+    "id": "soundfxlibrary",
     "title": "SoundFx Library",
     "description": "Library of sound effects that can be used in soundboards.",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author": "CDeenen",
     "authors": [
         {
