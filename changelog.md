@@ -1,4 +1,10 @@
 # Changelog Sound Fx Library
+### v1.0.3 - 08-05-2024
+-Updated manifest.json for Foundry v11
+-Added background images for the Foundry Add-on Modules browser
+
+### v1.0.2 - 31-08-2022
+-Updated manifest.json for Foundry v10
 
 ### v1.0.1 - 09-06-2021
 <b>File name changes</b>
