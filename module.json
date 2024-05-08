@@ -1,8 +1,9 @@
 {
     "name": "soundfxlibrary",
+    "id": "soundfxlibrary",
     "title": "SoundFx Library",
     "description": "Library of sound effects that can be used in soundboards.",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author": "CDeenen",
     "authors": [
         {
@@ -10,12 +11,12 @@
         }
       ],
     "minimumCoreVersion": "0.6.0",
-    "compatibleCoreVersion": "10",
+    "compatibleCoreVersion": "11",
     "compatibility": {
         "minimum": "0.6",
-        "verified": "10"
+        "verified": "11"
     },
-    "url": "https://github.com/CDeenen/SoundFxLibrary",
+    "url": "https://github.com/MaterialFoundry/SoundFxLibrary",
     "languages": [
         {
             "lang": "en",
@@ -26,6 +27,20 @@
     "scripts": [
         "packRegistry.js"
     ],
-    "manifest": "https://raw.githubusercontent.com/CDeenen/SoundFxLibrary/master/module.json",
-    "download": "https://github.com/CDeenen/SoundFxLibrary/archive/master.zip"
+    "media": [
+        {
+            "type": "icon",
+            "url": "modules/soundfxlibrary/img/MaterialFoundry512x512.png"
+        },
+        {
+            "type": "setup",
+            "url": "modules/soundfxlibrary/img/MaterialFoundry2560x1440.jpg"
+        },
+        {
+            "type": "cover",
+            "url": "modules/soundfxlibrary/img/MaterialFoundry2560x1440.jpg"
+        }
+    ],
+    "manifest": "https://raw.githubusercontent.com/MaterialFoundry/SoundFxLibrary/master/module.json",
+    "download": "https://github.com/MaterialFoundry/SoundFxLibrary/releases/download/v1.0.3/module.zip"
 }
